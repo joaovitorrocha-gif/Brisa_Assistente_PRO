@@ -1,0 +1,10 @@
+BRISA ASSISTENTE PRO v6
+
+1. Envie Brisa_Assistente_PRO_v6.js para a raiz do repositório GitHub Pages.
+2. Confirme o commit e aguarde a publicação.
+3. Atualize o favorito do Chrome para apontar para:
+https://joaovitorrocha-gif.github.io/Brisa_Assistente_PRO/Brisa_Assistente_PRO_v6.js
+
+O botão V é arrastável: clique e segure a bolinha e mova para a posição desejada.
+As informações de atendimento agora ficam recolhidas até selecionar uma categoria ou pesquisar.
+O Vitor Helper fica separado das mensagens por assunto.
